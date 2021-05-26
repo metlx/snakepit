@@ -106,7 +106,7 @@ Component.Snake = function (canvas, conf) {
   this.restart = function () {
     // 1337
     if (this.stage.score >= 5) {
-      alert("xd")
+      alert("There is 'Jus7aDir' ...")
       this.stage.length = [];
       this.stage.food = {};
       this.stage.score = 0;
