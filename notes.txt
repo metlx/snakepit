@@ -1,4 +1,19 @@
 # Todo
 - create init.sh
-- add webshell for localhost
 - setup php
+
+
+# map
+-ip:22
+    -ssh 
+- ip:80
+    - index.html (Sn4k3pit)
+    - script.js
+    - style.css
+    - robot.txt | can be a rabithole
+    - add stegno img
+
+
+- ip:high port
+    - add web shell
+
