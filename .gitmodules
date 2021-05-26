@@ -1,3 +1,0 @@
-[submodule "trex"]
-	path = t-rex-runner
-	url = https://github.com/wayou/t-rex-runner.git
