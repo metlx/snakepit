@@ -1,0 +1,4 @@
+# Todo
+- create init.sh
+- add webshell for localhost
+- setup php

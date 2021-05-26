@@ -1,17 +1,5 @@
 # Mr.Hiss Room
 
-TODO:
-- add init.sh
-- add webshell.php
-- stegno
-
-
-
-
-
-
-
-
 ## Credit:
 metl#1570
 
