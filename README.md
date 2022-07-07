@@ -1,4 +1,4 @@
-# Mr.Hiss Room
+# Snakepit Room
 
 
 ![cybersnake](https://user-images.githubusercontent.com/69979277/167988587-b8f76c58-2ec2-4e89-8857-f26aac2e07f1.png)
